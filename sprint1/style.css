@@ -1,0 +1,44 @@
+.page {
+    min-width: 1100px;   
+    max-width: 1600px;
+    font-family: 'Helvetica Neue', 'Arial', sans-serif; 
+}
+header {
+min-height: 600px;
+max-height: 756px;
+}
+.logo {
+text-align: uppercase;
+margin-top: 64px 30px;
+}
+.title {
+height: 96px;
+font-size: 102px; 
+display: flex;
+margin-left: 64px;
+width: 730px;
+text-align: end;
+font-weight: bold;
+
+}
+.subtitle {
+width: 388px;
+text-transform:lowercase;
+height: 25px;
+font-size: 18px;
+font-weight: normal;
+
+}
+
+.bg-color-grey {
+background-color: #1f1f1f;
+}
+.bg-color-grey2 {
+background-color: #f2f2f2;
+}
+.color-text-blue {
+color: #2f80ed;
+}
+.color-text-black { 
+color: #000000;
+}
